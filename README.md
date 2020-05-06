@@ -6,7 +6,7 @@ README
 This is Python code for (re)producing the results in the paper  
 "A deep neural network for fast and accurate scatter estimation in quantitative SPECT/CT under challenging scatter conditions,"  
 Haowei Xiang, Hongki Lim, Jeffrey A. Fessler, Yuni K. Dewaraja, 2020  
-[todo: add link to the paper (after online link is available)]  
+[<http://doi.org/10.1007/s00259-020-04840-9>]  
 Published in
 European Journal of Nuclear Medicine (EJNM)
 
@@ -27,9 +27,9 @@ If you have any questions or need help using this code, please contact haoweix@u
 ### Contents:
 
 * Example code for preprocessing, training and testing:
-   * ```ipynb/Deep Learning for SPECT scatter estimation v6.ipynb```: Instructions included in the python notebook.
+   * ```ipynb/Deep Learning for SPECT scatter estimation v9.ipynb```: Instructions included in the python notebook.
 * Pre-trained model used in our paper:  
-   * ```model/DCNN_SC_v6.hdf5.h5```: A DCNN model trained with 8 simulated phantom/virtual patient. This is the model we used to generate most of the results in our paper.
+   * ```model/DCNN_SC_v9.hdf5.h5```: A DCNN model trained with 8 simulated phantom/virtual patient. This is the model we used to generate most of the results in our paper.
 
 
 
